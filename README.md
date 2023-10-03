@@ -25,7 +25,7 @@
 
 | JavaScript |  React   |  Node   | MongoDB |
 | :--------: | :------: | :-----: | :----:  |
-|   ![js]    | ![react] | ![node] | ![mongo]|
+|  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">    | <img src="https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=React&logoColor=white"> | ![node] | ![mongo]|
 
 <br>
 
