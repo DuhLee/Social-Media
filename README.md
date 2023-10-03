@@ -11,50 +11,30 @@
 ## 프로젝트 소개
 
 <p align="justify">
-프로젝트 개요/동기
-</p>
+[개인프로젝트] 소셜미디어 웹사이트
+  
+포스트를 올려서 다른 사람들과 공유할 수 있는 사이트
 
-<p align="center">
-GIF Images
+로그인하여 자신의 포스트를 올리거나 다른 사람의 포스트에 좋아요를 누를 수 있습니다.
+포스트 상세페이지에서 상세 내용과 제목과 태그와 관련 있는 포스트를 추천해 줍니다.
 </p>
 
 <br>
 
 ## 기술 스택
 
-| JavaScript | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
+| JavaScript |  React   |  Node   | MongoDB |
+| :--------: | :------: | :-----: | :----:  |
+|   ![js]    | ![react] | ![node] | ![mongo]|
 
 <br>
 
 ## 구현 기능
 
-### 기능 1
-
-### 기능 2
-
-### 기능 3
-
-### 기능 4
+### JWT를 활용한 token으로 회원가입, 로그인 구현
+### middle ware 에서 로그인 정보 인증 구현
+### REST API 연동 (Google Oauth)
+### 포스트 출력, 작성, 삭제, 수정 과 좋아요 기능 구현
+### 포스트 pagination, 상세페이지 구현
 
 <br>
-
-## 배운 점 & 아쉬운 점
-
-<p align="justify">
-
-</p>
-
-<br>
-
-## 라이센스
-
-MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
-
-<!-- Stack Icon Refernces -->
-
-[js]: /images/stack/javascript.svg
-[ts]: /images/stack/typescript.svg
-[react]: /images/stack/react.svg
-[node]: /images/stack/node.svg
