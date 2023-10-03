@@ -23,9 +23,9 @@
 
 ## 기술 스택
 
-| JavaScript |  React   |  Node   | MongoDB |
+| JavaScript |  React   |  Node.js   | MongoDB |
 | :--------: | :------: | :-----: | :----:  |
-|  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">    | <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=React&logoColor=white"> | <img src="https://img.shields.io/badge/Node-F7DF1E?style=for-the-badge&logo=Node&logoColor=white"> | <img src="https://img.shields.io/badge/Mongo-F7DF1E?style=for-the-badge&logo=Mongo&logoColor=white">|
+|  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=JavaScript">    | <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=React"> | <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=Node.js"> | <img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=MongoDB">|
 
 <br>
 
