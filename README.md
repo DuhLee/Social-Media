@@ -30,7 +30,8 @@
 ## 구현 기능
 
 ![image](https://github.com/DuhLee/Social-Media/assets/119422179/581c466f-d9a8-4e36-8f80-6f24c035476c)
-> ####JWT를 활용한 token으로 회원가입, 로그인 구현
+>
+####JWT를 활용한 token으로 회원가입, 로그인 구현
 >
 > ####REST API 연동 (Google Oauth)
 >
