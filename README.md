@@ -30,22 +30,22 @@
 ## 구현 기능
 
 ![image](https://github.com/DuhLee/Social-Media/assets/119422179/581c466f-d9a8-4e36-8f80-6f24c035476c)
->JWT를 활용한 token으로 회원가입, 로그인 구현
+>####JWT를 활용한 token으로 회원가입, 로그인 구현
 >
->REST API 연동 (Google Oauth)
+>####REST API 연동 (Google Oauth)
 >
 <br>
 
 ![image](https://github.com/DuhLee/Social-Media/assets/119422179/9f055a56-d9b7-4d3e-bcce-7f85e536f244)
->포스트 출력, 작성, 삭제, 수정 과 좋아요 기능 구현
+>#####포스트 출력, 작성, 삭제, 수정 과 좋아요 기능 구현
 >
->포스트 pagination, 상세페이지 구현
+>####포스트 pagination, 상세페이지 구현
 >
 <br>
 
 ![image](https://github.com/DuhLee/Social-Media/assets/119422179/b83f1724-bae0-426e-81eb-bb1f3d87edf0)
 >
-> middle ware 에서 로그인 정보 인증 구현
+>####middle ware 에서 로그인 정보 인증 구현
 
 
 <br>
